@@ -1,0 +1,5 @@
+{
+  "name": "ML Concepts: Generalization & Regularization",
+  "description": "An interactive web application that teaches the concepts of model generalization, overfitting, underfitting, and regularization (L1/L2) in machine learning using visualized linear regression.",
+  "requestFramePermissions": []
+}
